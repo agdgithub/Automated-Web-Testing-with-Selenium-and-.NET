@@ -4,8 +4,7 @@ It is a simple web application and  test scripts to automate testing of its func
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install
 ```bash
 cd SeleniumTests
 dotnet add package Selenium.WebDriver
